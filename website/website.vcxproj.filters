@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="index.htm" />
-    <None Include="project.htm" />
+    <None Include="index.html" />
+    <None Include="project.html" />
   </ItemGroup>
 </Project>
