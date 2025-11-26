@@ -18,4 +18,7 @@
     <None Include="index.html" />
     <None Include="project.html" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Text.txt" />
+  </ItemGroup>
 </Project>
